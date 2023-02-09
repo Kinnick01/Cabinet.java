@@ -1,0 +1,31 @@
+egy szekreny
+vannak polcai meg fiokjai (Listaban van az osszes benne levo targy)-> tarrtalmazza az osszes benne levo elemeket
+
+nagy polc:
+    ezen csak muzlis talak meg tanyerokat tudok tarolni
+közepso polc:
+    mindent tudok tarolni (evoeszkozoket nem tud)
+poharas polc:
+    csak poharakat
+
+vannak fiokjai
+2 fele:
+    evoeszkozos fiok:
+        csak (minden anyagbol es meretut) evoeszkozoket tudok tarolni
+    van egy mindenes fiok:
+        muanyag talat, nagy FA evoeszkoz
+
+
+targyak:
+    muzlis tal, pohar, tanyer, evoeszkoz
+    muzlis tal,pohar,tanyer:
+        muanyag es uveg verzio
+
+    evoeszkoz: nagy es kis merete
+
+
+
+    task:
+        legyen egy olyan methodus ami meg tudja mondani hogy valamibol mennyi van a szekrenyben (pl: tanyer: 20)
+        ki es be tudunk pakolni dolgokat a szekrenybe
+        mindennek van anyaga meg van merete
