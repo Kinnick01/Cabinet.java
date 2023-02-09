@@ -5,15 +5,15 @@
    Cabinet: 
    -Has a list of cabinet parts:
        - Shelfs
-       - Droors
+       - Drawers
    -Has a list of items on given cabinet part
 
 
-   Droors:
-   -Silverware droor:
+   Drawers:
+   -Silverware drawer:
       -can only take silverware (any type, any size)
 
-   -Tuppleware droor:
+   -Tuppleware drawer:
     -only
     -plastic cups, plastic plates, plastic cerealbowls, and big wooden "Silverware""
 
@@ -45,5 +45,6 @@
 
  task:
 A method that gives back the amount of items of a given item. 
+A method that gives back the amount of Cabinet parts.
 A method that gives back the amount of items of a given type of item. (GLASS_CUPS = 20)
 A method that gives back the LIST of  items of a given item on a given  cabinet part ( " on cup shelf :" GLASS_CUP, GLASS_CUP, GLASS_CUP, PLASTIC_CUP )
