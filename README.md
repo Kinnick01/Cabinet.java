@@ -3,18 +3,20 @@
 
 
    Cabinet: 
-   -Has a list of cabinet parts:
-       - Shelfs
-       - Drawers
-   -Has a list of items on given cabinet part
+   
+      -Has a list of cabinet parts:
+          - Shelfs
+          - Drawers
+      -Has a list of items on given cabinet part
 
 
    Drawers:
-   -Silverware drawer:
-      -can only take silverware (any type, any size)
-      
-   -Tuppleware drawer:
-     -only plastic cups, plastic plates, plastic cerealbowls, and big wooden "Silverware""
+   
+    -Silverware drawer:
+       -can only take silverware (any type, any size)
+
+    -Tuppleware drawer:
+      -only plastic cups, plastic plates, plastic cerealbowls, and big wooden "Silverware""
 
 
    Shelfs:
